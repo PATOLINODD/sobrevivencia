@@ -1,0 +1,2 @@
+Testar depois. tiro de dose
+Fazer com line2D do raycasting usar angulo do jogador como base pra fazer mais duas linhas que vai ficar acima e outra abaixo.
