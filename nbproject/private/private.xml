@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="jogos">
+            <file>file:/C:/Users/administrator/Documents/NetBeansProjects/sobrevivencia/src/sobrevivencia/graficos/Graficos.java</file>
+            <file>file:/C:/Users/administrator/Documents/NetBeansProjects/sobrevivencia/src/sobrevivencia/entidades/Vida.java</file>
+            <file>file:/C:/Users/administrator/Documents/NetBeansProjects/sobrevivencia/src/sobrevivencia/acao/PontosSpawn.java</file>
+            <file>file:/C:/Users/administrator/Documents/NetBeansProjects/sobrevivencia/src/sobrevivencia/entidades/ProjetilInimigo.java</file>
+        </group>
+        <group name="JOGOS">
+            <file>file:/C:/Users/PATOLINODD/Documents/NetBeansProjects/sobrevivencia/src/sobrevivencia/Sobrevivencia.java</file>
+            <file>file:/C:/Users/PATOLINODD/Documents/NetBeansProjects/sobrevivencia/src/sobrevivencia/acao/PontosSpawn.java</file>
+        </group>
+        <group>
+            <file>file:/C:/Users/PATOLINODD/Documents/NetBeansProjects/sobrevivencia/src/sobrevivencia/Sobrevivencia.java</file>
+            <file>file:/C:/Users/PATOLINODD/Documents/NetBeansProjects/sobrevivencia/src/sobrevivencia/entidades/Inimigos.java</file>
+            <file>file:/C:/Users/PATOLINODD/Documents/NetBeansProjects/sobrevivencia/src/sobrevivencia/entidades/Ponto.java</file>
+            <file>file:/C:/Users/PATOLINODD/Documents/NetBeansProjects/sobrevivencia/src/sobrevivencia/Init.java</file>
+            <file>file:/C:/Users/PATOLINODD/Documents/NetBeansProjects/sobrevivencia/src/sobrevivencia/jogador/Jogador.java</file>
+            <file>file:/C:/Users/PATOLINODD/Documents/NetBeansProjects/sobrevivencia/src/sobrevivencia/projeteis/AbstractProjetil.java</file>
+            <file>file:/C:/Users/PATOLINODD/Documents/NetBeansProjects/sobrevivencia/src/sobrevivencia/entidades/Inimigo12.java</file>
+            <file>file:/C:/Users/PATOLINODD/Documents/NetBeansProjects/sobrevivencia/src/sobrevivencia/entidades/AbstractEntidade.java</file>
+            <file>file:/C:/Users/PATOLINODD/Documents/NetBeansProjects/sobrevivencia/src/sobrevivencia/projeteis/Granada.java</file>
+        </group>
+    </open-files>
+</project-private>
